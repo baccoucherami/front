@@ -1,0 +1,8 @@
+{
+  "name": "guest",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
